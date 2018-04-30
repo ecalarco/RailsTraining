@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is an example of a ruby on rails application
 
-Things you may want to cover:
+### Features
 
-* Ruby version
+- Real Time Chat Engine from comments
+- Blog
+- Portfolio
+- Drag and Drop Interface
 
-* System dependencies
+### Example of Code Example
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```ruby
+def example_method
+  puts "Hello World"
+end
+```
